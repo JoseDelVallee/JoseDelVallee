@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 
 </div>
 
+---
+
+  
 ##  :cherry_blossom: About me:
 </i>
 
