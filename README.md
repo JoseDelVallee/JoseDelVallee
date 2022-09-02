@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
-⚡### About me:
-### About me:
+### ⚡About me:
 </i>
 
  <p><strong>I'm José Piña Del Valle </strong>an Data science engineer student from Mexico City, </p> 
