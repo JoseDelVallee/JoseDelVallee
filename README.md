@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ---
 
   
-##  :cherry_blossom: About me:
+##⚡ About me:
 </i>
 
- <p><strong>I'm Felipe Sanchez Martinez </strong>an Artificial Intelligence engineer student from Mexico that really loves hanging out with friends🍺 and eat coffe Ice     Cream 🍦</p> 
+ <p><strong>I'm José Piña Del Valle </strong>an Data science engineer student from Mexico City, </p> 
  
