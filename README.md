@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 #### ⚡ About me:
 </i>
 
- <p><strong>I'm José Piña Del Valle,</strong>I am 19 years old, an Data science engineer student from Mexico City, </p> 
+ <p><strong>I'm José Piña Del Valle,</strong>I am 19 years old, and Data science engineer student from Mexico City, </p> 
  
