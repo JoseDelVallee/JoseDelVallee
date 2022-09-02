@@ -41,3 +41,9 @@ Here are some ideas to get you started:
   <a href="mailto:pina.delvalle.jose@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
+
+##  :cherry_blossom: About me:
+</i>
+
+ <p><strong>I'm Felipe Sanchez Martinez </strong>an Artificial Intelligence engineer student from Mexico that really loves hanging out with friends🍺 and eat coffe Ice     Cream 🍦</p> 
+ 
