@@ -44,9 +44,7 @@ Here are some ideas to get you started:
 
 ---
 
- <i>⚡ 
-### Hi this is my perfil in Github👋
-
+ <i>⚡### About me:
 </i>
 
  <p><strong>I'm José Piña Del Valle </strong>an Data science engineer student from Mexico City, </p> 
