@@ -1,4 +1,4 @@
-#### Hi this is my perfil in Github👋
+#### Hi this is my profile in Github👋
 
 <!--
 **JoseDelVallee/JoseDelVallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
