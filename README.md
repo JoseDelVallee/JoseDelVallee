@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=JoseDelVallee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeLVallee&layout=compact&theme=vision-friendly-dark)](https://github.com/josedelvallee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeLVallee&layout=compact&theme=vision-friendly-dark)](https://github.com/JoseDelVallee/github-readme-stats)
 
    </div>
 
@@ -49,5 +49,5 @@ Here are some ideas to get you started:
 #### ⚡ About me:
 </i>
 
- <p><strong>I'm José Piña Del Valle,</strong> I am 20 years old and Data science engineer student from Mexico City, </p> 
+ <p><strong>I'm José Piña Del Valle,</strong> I am 21 years old and Data science engineer student from Mexico City, </p> 
  
