@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="https://www.css.com" target="_blank" style="text-decoration: none;">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <a href="https://www.python.com" target="_blank" style="text-decoration: none;">
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
 </div>
