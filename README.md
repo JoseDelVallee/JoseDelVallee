@@ -24,19 +24,18 @@ Here are some ideas to get you started:
 
    </div>
 
-
   
 <div style="display:inline_block;">
-  <a href="https://www.example.com/javascript" target="_blank" style="text-decoration: none;">
+  <a href="https://www.javascript.com" target="_blank" style="text-decoration: none;">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
-  <a href="https://www.example.com/html" target="_blank" style="text-decoration: none;">
+  <a href="https://www.html.com" target="_blank" style="text-decoration: none;">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
-  <a href="https://www.example.com/css" target="_blank" style="text-decoration: none;">
+  <a href="https://www.css.com" target="_blank" style="text-decoration: none;">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-  <a href="https://www.example.com/python" target="_blank" style="text-decoration: none;">
+  <a href="https://www.python.com" target="_blank" style="text-decoration: none;">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
 </div>
