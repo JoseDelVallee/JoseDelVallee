@@ -38,6 +38,15 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
+  <a href="https://)" target="_blank" style="text-decoration: none;">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  </a>
+
+
+
 </div>
 
  
