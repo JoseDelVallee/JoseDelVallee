@@ -93,6 +93,9 @@ Here are some ideas to get you started:
 
  <p><strong>I'm José Piña Del Valle,</strong> I am 21 years old and Data science engineer student from Mexico City, </p> 
 
+### 📈 GitHub Contributions Snake
+
+![snake gif](https://github.com/JoseDelValleee/JosedelValleee/blob/output/github-contribution-grid-snake.svg)
 
 
 
