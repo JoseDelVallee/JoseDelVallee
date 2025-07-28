@@ -1,6 +1,6 @@
 #### Hi, this is my profile in Github.👋
 
-![Mi presentación animada](https://i.imgur.com/ToDK4vT.gif)
+![Mi GIF animado](https://i.imgur.com/ToDK4vT.gif)
 
 <!--
 **JoseDelVallee/JoseDelVallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
