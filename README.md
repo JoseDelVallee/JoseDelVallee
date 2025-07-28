@@ -59,7 +59,23 @@ Here are some ideas to get you started:
 
 </div>
 
- 
+ <div align="center">
+
+  <a href="https://github.com/tu_usuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tu_usuario/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/tu_usuario" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
+  </a>
+  <a href="mailto:tuemail@dominio.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email"/>
+  </a>
+
+</div>
+
 ---
   
 <div> 
