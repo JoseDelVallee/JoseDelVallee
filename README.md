@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
    </div>
 
+![Views](https://komarev.com/ghpvc/?username=JoseDelValleee&color=green)
+
   
 <div style="display:inline_block;">
   <a href="https://www.javascript.com" target="_blank" style="text-decoration: none;">
