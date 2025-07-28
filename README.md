@@ -92,4 +92,9 @@ Here are some ideas to get you started:
 </i>
 
  <p><strong>I'm José Piña Del Valle,</strong> I am 21 years old and Data science engineer student from Mexico City, </p> 
- 
+
+
+
+
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=josedelvalle&theme=dark&hide_border=true" alt="GitHub Streak"/>
+
