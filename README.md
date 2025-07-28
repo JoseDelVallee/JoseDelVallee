@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/JoseDelVallee">  
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=JoseDelVallee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/JoseDelVallee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseDelVallee&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDeLVallee&layout=compact&theme=vision-friendly-dark)](https://github.com/JoseDelVallee/github-readme-stats)
+<a href="https://github.com/JoseDelVallee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDelVallee&layout=compact&theme=default"/>
 
    </div>
 
