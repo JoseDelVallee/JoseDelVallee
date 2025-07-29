@@ -1,7 +1,8 @@
-#### Hi, this is my profile in Github.👋
-
+### Hi, this is my profile in Github.👋
+---
+<div align ="center">
 <img src="./img/videoo.gif" width="800" height="500"/>
-
+</div>
 
 <!--
 **JoseDelVallee/JoseDelVallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+
+### 📊 Github Stats
 
 <div align="center">
 <a href="https://github.com/JoseDelVallee">
