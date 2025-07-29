@@ -50,14 +50,7 @@
   <img width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 </div>
 
-
-
-
-
-
 ---
-
-### 🧰 Tools
 
 ### 🧰 Tools
 
@@ -72,14 +65,27 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" alt="AWS"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Google_Cloud_Logo.svg" width="40" alt="Google Cloud"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Tableau_Logo.svg" width="40" alt="Tableau"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="40" alt="Power BI"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Anaconda_logo.svg" width="40" alt="Anaconda"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="40" alt="Streamlit"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Colaboratory_logo.svg" width="40" alt="Google Colab"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" alt="Hugging Face"/>
 </div>
 
+
 ---
-
-
 ### 🌐 Social Networks
 
 <div align="center">
