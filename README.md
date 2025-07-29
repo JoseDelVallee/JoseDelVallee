@@ -4,18 +4,10 @@
   <img src="./img/videoo.gif" width="800" height="500"/>
 </div>
 
-<br>
-
 ### 🧐 About me:
 <p><strong>I'm José Piña Del Valle</strong> 👨‍💻, a 22-year-old Data Science student at ESCOM-IPN from Mexico City 🇲🇽, passionate about AI, cloud, and finance📊. I'm part of Club Tigers, where I promote tech projects and knowledge sharing 📢. I enjoy applying data and ML to real-world challenges and stay active in tech events to keep learning and growing 📈.</p>
 
 ---
-
-### 🛠️ My Projects
-<!-- Aquí puedes agregar tus proyectos destacados -->
-
----
-
 ### 📊 Github Stats
 
 <div align="center">
@@ -31,6 +23,8 @@
 ![Views](https://komarev.com/ghpvc/?username=JoseDelValleee&color=green)
 
 ---
+
+
 
 ### 💻 Languages
 
@@ -96,7 +90,10 @@
 </div>
 
 ---
+### 🛠️ My Projects
+<!-- Aquí puedes agregar tus proyectos destacados -->
 
+---
 ### 📈 GitHub Contributions Snake
 
 ![snake gif](https://github.com/JoseDelValleee/JosedelValleee/blob/output/github-contribution-grid-snake.svg)
