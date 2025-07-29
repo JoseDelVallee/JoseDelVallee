@@ -28,27 +28,32 @@
 
 ### 💻 Languages
 
-
-<div style="display:inline_block;">
-  <a href="https://www.javascript.com" target="_blank" style="text-decoration: none;">
-    <img height="30" width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
-    <img height="30" width="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
-    <img height="30" width="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  </a>
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none;">
-    <img height="30" width="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none;">
-    <img height="30" width="40" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  </a>
-  <a href="https://www.mysql.com" target="_blank" style="text-decoration: none;">
-    <img height="30" width="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-  </a>
+<div align="center">
+  <img width="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="C" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="R" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
 </div>
+
+
+
+
+
 
 ---
 
