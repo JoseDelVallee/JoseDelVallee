@@ -135,36 +135,34 @@
 ### 🌐 Social Networks
 
 <div align="center">
-  <a href="https://github.com/tu_usuario" target="_blank">
+  <a href="https://github.com/JoseDelValleee" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tu_usuario/" target="_blank">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jos%C3%A9-del-valle-4b8327221/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/tu_usuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
-  </a>
-  <a href="mailto:tuemail@dominio.com">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Josepht_star" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="X/Twitter"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pina.delvalle.jose@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" alt="Email"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/josedelvalleee" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/c202098d-3116-456f-8b45-1045bc94efb3" target="_blank">
+    <img src="https://img.icons8.com/color/48/microsoft.png" width="40" alt="MLSA"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" alt="Notion"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@josepinadelvalle9558" target="_blank">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" width="40" alt="YouTube"/>
   </a>
 </div>
 
-<br>
 
-<div> 
-  <a href="https://instagram.com/josedelvalleee" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href="https://twitter.com/Josepht_star" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-  <a href="https://www.youtube.com/channel/UC062wHyXfGaRRj2F7nVkIFw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="mailto:pina.delvalle.jose@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
 
 ---
 ### 🛠️ My Projects
-<!-- Aquí puedes agregar tus proyectos destacados -->
-
----
-### 📈 GitHub Contributions Snake
-
-![snake gif](https://github.com/JoseDelValleee/JosedelValleee/blob/output/github-contribution-grid-snake.svg)
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=josedelvalle&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<!--proyectos destacados -->
