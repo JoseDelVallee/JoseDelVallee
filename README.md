@@ -71,19 +71,17 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" width="40" alt="Google Cloud"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Tableau_Logo.svg" width="40" alt="Tableau"/>
+  <img src="./img/tableu.png" width="80" alt="Tableau" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/power-bi/power-bi.png" width="40" alt="Power BI"/>
+  <img src="./img/databricks.png" width="80" alt="Databricks" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Anaconda_logo.svg" width="40" alt="Anaconda"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="60" alt="Streamlit"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" alt="Streamlit"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Colaboratory_logo.svg" width="40" alt="Google Colab"/>
+  <img src="./img/colab.svg.png" width="80" alt="Google Colab" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" alt="Hugging Face"/>
 </div>
+
 
 
 ---
