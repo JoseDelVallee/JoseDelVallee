@@ -75,11 +75,12 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./img/databricks.png" width="80" alt="Databricks" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="60" alt="Streamlit"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" alt="Hugging Face"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="60" alt="Streamlit"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./img/colab.svg.png" width="90" alt="Google Colab" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" alt="Hugging Face"/>
+
 </div>
 
 
