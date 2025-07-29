@@ -71,7 +71,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" width="40" alt="Google Cloud"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./img/tableu.png" width="80" alt="Tableau" />
+  <img src="./img/powerbi.png" width="90" alt="Powe Bi" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./img/databricks.png" width="80" alt="Databricks" />
   &nbsp;&nbsp;&nbsp;&nbsp;
